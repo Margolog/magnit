@@ -70,6 +70,7 @@ public class BaseTest {
     }
 }
 
+
 //    @BeforeAll
 //    static void setup() {
 //        Configuration.baseUrl = "https://multicards.io";
